@@ -1,0 +1,20 @@
+Dissectors for LTTng Live, Data and Control protocols
+    
+This software is distributed under GPLv3 license. See LICENSE file for
+details.
+    
+LTTng is an open source software developed by EfficiOS Inc.
+http://lttng.org/
+http://www.efficios.com/about-efficios
+    
+Wireshark is the world’s foremost and widely-used network protocol
+analyzer. It lets you see what’s happening on your network at a
+microscopic level and is the de facto (and often de jure) standard
+across many commercial and non-profit enterprises, government agencies,
+and educational institutions. Wireshark development thrives thanks to
+the volunteer contributions of networking experts around the globe and
+is the continuation of a project started by Gerald Combs in 1998.
+https://www.wireshark.org/
+    
+This software was tested on Fedora 25 with GCC 6.3 and Wireshark 2.2.7.
+
